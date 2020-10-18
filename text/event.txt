@@ -1,0 +1,13 @@
+<div id="Event" class = "Page">
+      <h1 style="text-align: center; font-style: italic">Events</h1>
+        <p>Daughter of Zion Meeting - Every Monday 9am - 12pm</p>
+        <p>Daughter of Zion Vigil - Last Monday of the month 10pm - 6am </p>  
+        <p>First Tuesday of the month - One Day with Jesus</p>
+        <p>Bible Studies - Every Tuesday 6pm - 7:30pm</p>
+        <p>Non-Denominational Service- Every Thursday 9am - 2:30pm</p>
+        <p>Deliverance Program - Last Monday to Friday of the month  </p>
+        <p>Night Vigil - Last Friday of the month 10pm - 6am</p>        
+        <p>Anointing Service - Every First Sunday  9am - 2:30pm</p>
+        <p>Prophetic Sunday - Every 3rd Sunday of the month 8am - 12pm </p>
+        <p>Sunday Service - Every Sunday of the month -  8am - 12pm</p>
+                           </div>
