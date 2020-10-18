@@ -36,7 +36,7 @@
 }
 
 #service {
-    background-image: url(/images/20190818_133423.jpg);
+    background-image: url(../images/20190818_133423.jpg);
     background-color: dimgray;
     /* background-color: black; */
     background-blend-mode: multiply;
@@ -46,7 +46,7 @@
 }
 
 #testimony {
-    background-image: url(/images/carlos-arthur-m-r-963uzyQwa6s-unsplash.jpg);
+    background-image: url(../images/carlos-arthur-m-r-963uzyQwa6s-unsplash.jpg);
     background-color: dimgray;
     /* background-color: black; */
     background-blend-mode: multiply;

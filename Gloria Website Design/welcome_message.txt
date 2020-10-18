@@ -1,0 +1,7 @@
+<div id="Welcome">
+      <h1 style="text-align: center; font-style: italic">Welcome Message</h1>
+        <p>E.P.G is a vibrant prayer ministry founded on the principle of living the Word to spread the gospel of our Lord Jesus Christ. We advocate the power of God through prayer and practising the word as keys for accessing blessings and altering all difficult situations.</p>
+        <p>We are an evangelical church and our services are accessible seven days a week to those in need.</p>
+        <p>Our Head Office is in Lagos State, Nigeria and there is a branch coming soon London.
+                    If you would like to join us at one of our services; details are available on this website. We would love to receive you.</p>
+                    </div>
