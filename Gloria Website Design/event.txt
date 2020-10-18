@@ -1,6 +1,0 @@
-<h5<u>Events</u></h5>
-ul>
-                                <li>Mega Praise &amp; Worship - July</li>
-                                <li>Thanksgiving Service - November each year</li>
-                                <li>Youth Camp - August</li>
-                            </ul>
